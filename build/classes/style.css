@@ -1,0 +1,85 @@
+
+
+
+#pane{
+	-fx-background-image: url("resources/background.png");
+	-fx-background-repeat: stretch;   
+	-fx-background-position: center center;
+	-fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}
+#pane_lvlOneScreenTwo{
+	-fx-background-image: url("resources/background2.png");
+	-fx-background-repeat: stretch;   
+	-fx-background-position: center center;
+	-fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}
+#pane_lvlOneScreenThree{
+	-fx-background-image: url("resources/background3.png");
+	-fx-background-repeat: stretch;   
+	-fx-background-position: center center;
+	-fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}
+#pane_lvlTwoScreenOne{
+	-fx-background-image: url("resources/background4.png");
+	-fx-background-repeat: stretch;   
+	-fx-background-position: center center;
+	-fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}
+#pane_lvlTwoScreenTwo{
+	-fx-background-image: url("resources/background5.png");
+	-fx-background-repeat: stretch;   
+	-fx-background-position: center center;
+	-fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}
+#pane_lvlTwoScreenThree{
+	-fx-background-image: url("resources/background6.png");
+	-fx-background-repeat: stretch;   
+	-fx-background-position: center center;
+	-fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}
+#pane_lvlThreeScreenOne{
+	-fx-background-image: url("resources/background7.png");
+	-fx-background-repeat: stretch;   
+	-fx-background-position: center center;
+	-fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}
+#pane_lvlThreeScreenTwo{
+	-fx-background-image: url("resources/background8.png");
+	-fx-background-repeat: stretch;   
+	-fx-background-position: center center;
+	-fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}
+#pane_lvlThreeScreenThree{
+	-fx-background-image: url("resources/background9.png");
+	-fx-background-repeat: stretch;   
+	-fx-background-position: center center;
+	-fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}
+#pane_title{
+	-fx-background-image: url("resources/title.jpg");
+	-fx-background-repeat: stretch;   
+	-fx-background-position: center center;
+	-fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}
+#pane_gameover{
+	-fx-background-image: url("resources/game_over.jpg");
+	-fx-background-repeat: stretch;   
+	-fx-background-position: center center;
+	-fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}
+#pane_levelcomplete{
+	-fx-background-image: url("resources/level_complete.jpg");
+	-fx-background-repeat: stretch;   
+	-fx-background-position: center center;
+	-fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}
+#pane_finalscreen{
+	-fx-background-image: url("resources/FinalScreen.png");
+	-fx-background-repeat: stretch;   
+	-fx-background-position: center center;
+	-fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}
+
+.root {
+    -fx-background-image: url("https://www.google.com/images/srpr/logo3w.png");
+}
